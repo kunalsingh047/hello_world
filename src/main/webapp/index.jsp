@@ -5,7 +5,6 @@
 <h2>KUNAL SINGH===============</h2>
 <h2>Have a good week</h2
 >
-<h2>Have a good week</h2>
-<h2>Have a good week</h2>
+<h2>first deployment through ansible script</h2>
 </body>
 </html>
