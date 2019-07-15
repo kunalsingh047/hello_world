@@ -19,6 +19,6 @@ node{
 
 
   stage('Slack Notification'){
-    slackSend baseUrl: 'https://hooks.slack.com/services/', channel: 'jenkins', color: 'good', iconEmoji: '', message: 'Hello slak user', teamDomain: 'self', tokenCredentialId: 'slack-id', username: ''
+    slackSend baseUrl: 'https://hooks.slack.com/services/', channel: 'jenkins', color: 'danger', iconEmoji: '', message: 'welcomw', teamDomain: 'self', tokenCredentialId: 'slack-demo', username: ''
   }
 }
