@@ -15,7 +15,7 @@ node{
     withSonarQubeEnv('sonar-7') {
       sh "${mvnHome}/bin/mvn  sonar:sonar"
     }
-  }"
+  }
 
 
   stage('Slack Notification'){
